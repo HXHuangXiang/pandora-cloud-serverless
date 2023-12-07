@@ -15,6 +15,7 @@
     }
   ],
   "env": {
-    "PANDORA_SERVER_LISTEN": "false"
+    "PANDORA_SERVER_LISTEN": "false",
+    "PANDORA_PROXY": "https://chat1.zhile.io/backend-api"
   }
 }
